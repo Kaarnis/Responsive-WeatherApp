@@ -1,9 +1,9 @@
 Responsiivinen Säätiedote Sovellus.
 
-Clone
-Install dependencies (npm i)
-Get your API key and add to weatherService.js
-Enjoy!!
+1. Kloonaa repo
+2. Asenna riippuvuudet (npm i)
+3. Hae oma apikeysi https://openweathermap.org/ ja lisää se weatherService.js fileen.
+
 
 
 
