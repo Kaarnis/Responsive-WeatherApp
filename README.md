@@ -2,7 +2,7 @@ Responsiivinen Säätiedote Sovellus.
 
 1. Kloonaa repo
 2. Asenna riippuvuudet (npm i)
-3. Hae oma apikeysi https://openweathermap.org/ ja lisää se weatherService.js fileen.
+3. Hae oma apikeysi https://openweathermap.org/ (Current weather data) ja lisää se weatherService.js fileen.
 
 
 
