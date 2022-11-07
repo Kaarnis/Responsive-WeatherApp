@@ -1,3 +1,19 @@
+Responsiivinen Säätiedote Sovellus.
+
+Clone
+Install dependencies (npm i)
+Get your API key and add to weatherService.js
+Enjoy!!
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
